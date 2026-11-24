@@ -11,6 +11,12 @@
       "senha": "abc",
       "mac": "",
       "expiracao": "2026-12-01"
+    },
+    {
+      "usuario": "celinkk",
+      "senha": "123",
+      "mac": "",
+      "expiracao": "2027-12-31"
     }
   ]
 }
